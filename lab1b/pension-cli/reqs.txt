@@ -1,0 +1,12 @@
+Employee has one PensionPlan
+PensionPlan has many Employees
+
+PP management: for viewing, updating and maintaining the plan details for the employees.
+PP management 2: Quarterly Upcoming Enrollees report - list of all Employees who are qualified for Pensions Plan enrollment in the next quarter
+                 Any Employee in the system whose period
+                 of employment has been at least 3 years, on or between the first and the last day of the
+                 next quarter and who have NOT yet been enrolled to a Pension Plan, should have their
+                 data presented in the Quarterly Upcoming Enrollees report.
+
+
+
