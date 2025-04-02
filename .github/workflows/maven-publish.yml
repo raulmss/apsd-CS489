@@ -25,5 +25,5 @@ jobs:
 
     - name: Build with Maven
       run: |
-    cd apsd-CS489/lab1b/pension-cli
+    cd /home/runner/work/apsd-CS489/apsd-CS489
     mvn clean install
