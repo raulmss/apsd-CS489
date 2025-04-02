@@ -1,5 +1,5 @@
 # Raul Santos - LAB 2
-##Requirements
+## Requirements
 
 1. Dentists should apply for network affiliation.  
 2. Office Managers should be able to register Dentists into the network.  
