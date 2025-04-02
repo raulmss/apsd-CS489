@@ -19,3 +19,7 @@
 16. Patients should be able to request an appointment cancellation.  
 17. Patients should be able to request an appointment change.  
 18. Patients should not be able to request an appointment in case they have an unpaid bill for dental service previously received.  
+
+## Class Diagram
+
+![Class Diagram](lab2/diagram.png)
