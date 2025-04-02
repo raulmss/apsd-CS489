@@ -27,7 +27,4 @@ jobs:
       run: |
         cd lab1b/pension-cli
         mvn clean install
-        ls
-        cd target/
-        ls
-#        java -jar target/pension-cli.jar
+        java -jar target/pension-cli-1.0-SNAPSHOT.jar
