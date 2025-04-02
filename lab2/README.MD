@@ -22,4 +22,4 @@
 
 ## Class Diagram
 
-![Class Diagram](lab2/diagram.png)
+![diagram.png](diagram.png)
